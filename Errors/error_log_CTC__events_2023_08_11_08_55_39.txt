@@ -1,0 +1,804 @@
+AddressParseError occurred for url 1. Error: Failed to parse address: FLUSHING MEADOWS PARK
+AddressParseError occurred for url 1. Error: Failed to parse address: FLUSHING MEADOWS PARK
+AddressParseError occurred for url 1. Error: Failed to parse address: FLUSHING MEADOWS PARK
+Error in URl parser for https://www.eventbrite.com/e/epa-natl-environmental-justice-community-engagement-call-aug-15-2023-registration-689514615777. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/epa-natl-environmental-justice-community-engagement-call-aug-15-2023-registration-689514615777. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/epa-natl-environmental-justice-community-engagement-call-aug-15-2023-registration-689514615777. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/epa-natl-environmental-justice-community-engagement-call-aug-15-2023-registration-689514615777
+ValueError occurred for url 2. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 3. Error: Failed to parse date: The start datetime of the event: 
+PastDateError occurred for url 3. Error: Skipping event due to date 2021-11-24 19:00:00 occurring in the past
+ValueError occurred for url 4. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 4. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 4. Error: Failed to parse date:  
+ValueError occurred for url 4. Error: Failed to parse date: The start datetime of the event
+ValueError occurred for url 4. Error: Failed to parse date: The start datetime of the event 
+ValueError occurred for url 4. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 4. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 4. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 4. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 4. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 5. Error: Failed to parse date:  
+ValueError occurred for url 5. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 5. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 5. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 5. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 5. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 5. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 5. Error: Failed to parse date: Start datetime of event
+ValueError occurred for url 5. Error: Failed to parse date: 
+ValueError occurred for url 5. Error: Failed to parse date: The start datetime of the event 
+ValueError occurred for url 7. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 7. Error: Failed to parse date: 
+ValueError occurred for url 7. Error: Failed to parse date: The start datetime of the event 
+ValueError occurred for url 7. Error: Failed to parse date:  
+ValueError occurred for url 7. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 7. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 7. Error: Failed to parse date:  The start datetime of the event in the format: Month Day, Year, Hour:Minute AM/PM
+ValueError occurred for url 7. Error: Failed to parse date: The start datetime of the event 
+ValueError occurred for url 7. Error: Failed to parse date: The start datetime of the event is missing
+ValueError occurred for url 7. Error: Failed to parse date: The start datetime of the event 
+ValueError occurred for url 8. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 8. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 8. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 8. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 8. Error: Event details extraction failed. Retrying...
+PastDateError occurred for url 8. Error: Skipping event due to date 2023-03-11 00:00:00 occurring in the past
+ValueError occurred for url 9. Error: Failed to parse date:  The start datetime of the event
+ValueError occurred for url 9. Error: Failed to parse date:  The start datetime of the event
+ValueError occurred for url 9. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 9. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 9. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 9. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 9. Error: Failed to parse date: The start datetime of the event 
+ValueError occurred for url 9. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 9. Error: Failed to parse date:  The start datetime of the event
+ValueError occurred for url 9. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 10. Error: Event details extraction failed. Retrying...
+PastDateError occurred for url 12. Error: Skipping event due to date 2023-08-10 16:00:00 occurring in the past
+ValueError occurred for url 13. Error: Event details extraction failed. Retrying...
+PastDateError occurred for url 15. Error: Skipping event due to date 2022-09-18 09:00:00 occurring in the past
+ValueError occurred for url 21. Error: Failed to parse date:  2:00 PM - 3:00 PM
+ValueError occurred for url 21. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 28. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 29. Error: Failed to parse date: October 19, 2023, 2:00 PM - 3:00 PM
+ValueError occurred for url 33. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 34. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 34. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 34. Error: Event details extraction failed. Retrying...
+PastDateError occurred for url 39. Error: Skipping event due to date 2022-09-20 09:00:00 occurring in the past
+Error in URl parser for https://www.eventbrite.hk/e/asia-solar-energy-for-climate-change-conference-aseccc-day-2-tickets-690013287317. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.hk/e/asia-solar-energy-for-climate-change-conference-aseccc-day-2-tickets-690013287317. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.hk/e/asia-solar-energy-for-climate-change-conference-aseccc-day-2-tickets-690013287317. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.hk/e/asia-solar-energy-for-climate-change-conference-aseccc-day-2-tickets-690013287317
+Error in URl parser for https://www.eventbrite.com/e/stories-of-hope-amid-ecological-crisis-tickets-669425047337. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/stories-of-hope-amid-ecological-crisis-tickets-669425047337. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/stories-of-hope-amid-ecological-crisis-tickets-669425047337. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/stories-of-hope-amid-ecological-crisis-tickets-669425047337
+Error in URl parser for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357
+General Error occurred for url 63. Error: can't compare offset-naive and offset-aware datetimes
+General Error occurred for url 63. Error: can't compare offset-naive and offset-aware datetimes
+ValueError occurred for url 63. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/weekend-wined-up-tasting-flight-aug-17-19-cooler-climates-tickets-690169935857. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/weekend-wined-up-tasting-flight-aug-17-19-cooler-climates-tickets-690169935857. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/weekend-wined-up-tasting-flight-aug-17-19-cooler-climates-tickets-690169935857. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/weekend-wined-up-tasting-flight-aug-17-19-cooler-climates-tickets-690169935857
+ValueError occurred for url 102. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 102. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 102. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 102. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 102. Error: Event details extraction failed. Retrying...
+Error fetching https://www.eventbrite.com/e/insideout-worcester-tickets-692523194517. Error: HTTPSConnectionPool(host='www.eventbrite.com', port=443): Read timed out.
+Error in URl parser for https://www.eventbrite.com/e/2023-massfm-annual-conference-registration-645696815557. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/2023-massfm-annual-conference-registration-645696815557. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/2023-massfm-annual-conference-registration-645696815557. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/2023-massfm-annual-conference-registration-645696815557
+Error in URl parser for https://www.eventbrite.com/e/winter-warmers-tickets-475224588537. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/winter-warmers-tickets-475224588537. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/winter-warmers-tickets-475224588537. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/winter-warmers-tickets-475224588537
+Error in URl parser for https://www.eventbrite.com/e/party-of-the-sun-w-eleanor-elektra-tickets-676012109417. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/party-of-the-sun-w-eleanor-elektra-tickets-676012109417. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/party-of-the-sun-w-eleanor-elektra-tickets-676012109417. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/party-of-the-sun-w-eleanor-elektra-tickets-676012109417
+ValueError occurred for url 133. Error: Failed to parse date: Not specified
+ValueError occurred for url 133. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 133. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 133. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 133. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 133. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 133. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 133. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 133. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 133. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/impact-partner-summit-tickets-628856776547. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/impact-partner-summit-tickets-628856776547. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/impact-partner-summit-tickets-628856776547. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/impact-partner-summit-tickets-628856776547
+Error in URl parser for https://www.eventbrite.com/e/student-leadership-collaborative-pewaukee-wi-registration-638335808587. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/student-leadership-collaborative-pewaukee-wi-registration-638335808587. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/student-leadership-collaborative-pewaukee-wi-registration-638335808587. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/student-leadership-collaborative-pewaukee-wi-registration-638335808587
+Error in URl parser for https://www.eventbrite.com/e/summer-speaker-series-2023-tickets-685092629497. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/summer-speaker-series-2023-tickets-685092629497. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/summer-speaker-series-2023-tickets-685092629497. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/summer-speaker-series-2023-tickets-685092629497
+Error in URl parser for https://www.eventbrite.com/e/ceejh-umd-environmental-justice-health-disparities-symposium-in-person-tickets-660447715897. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/ceejh-umd-environmental-justice-health-disparities-symposium-in-person-tickets-660447715897. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/ceejh-umd-environmental-justice-health-disparities-symposium-in-person-tickets-660447715897. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/ceejh-umd-environmental-justice-health-disparities-symposium-in-person-tickets-660447715897
+Error in URl parser for https://www.eventbrite.com/e/the-pocket-presents-keep-your-secrets-w-arms-like-roses-hungry-bug-tickets-637424873957. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/the-pocket-presents-keep-your-secrets-w-arms-like-roses-hungry-bug-tickets-637424873957. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/the-pocket-presents-keep-your-secrets-w-arms-like-roses-hungry-bug-tickets-637424873957. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/the-pocket-presents-keep-your-secrets-w-arms-like-roses-hungry-bug-tickets-637424873957
+ValueError occurred for url 220. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 220. Error: Failed to parse date: Start datetime: August 16, 2023, 7:00 PM
+Error in URl parser for https://www.eventbrite.com/e/dnerr-estuary-expo-tickets-666827297397. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/dnerr-estuary-expo-tickets-666827297397. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/dnerr-estuary-expo-tickets-666827297397. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/dnerr-estuary-expo-tickets-666827297397
+Error in URl parser for https://www.eventbrite.com/e/four-part-whole-system-garden-design-with-shawn-maestretti-registration-686669164957. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/four-part-whole-system-garden-design-with-shawn-maestretti-registration-686669164957. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/four-part-whole-system-garden-design-with-shawn-maestretti-registration-686669164957. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/four-part-whole-system-garden-design-with-shawn-maestretti-registration-686669164957
+PastDateError occurred for url 268. Error: Skipping event due to date 2017-09-02 08:30:00 occurring in the past
+Error in URl parser for https://www.eventbrite.com/e/bbtm-x-juneshine-ali-blake-kat-hamilton-justin-hulsey-the-mn-child-tickets-678981270257. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/bbtm-x-juneshine-ali-blake-kat-hamilton-justin-hulsey-the-mn-child-tickets-678981270257. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/bbtm-x-juneshine-ali-blake-kat-hamilton-justin-hulsey-the-mn-child-tickets-678981270257. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/bbtm-x-juneshine-ali-blake-kat-hamilton-justin-hulsey-the-mn-child-tickets-678981270257
+ValueError occurred for url 299. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 299. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 299. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/birdemic-shock-and-terror-birdemic-3-sea-eagle-the-smc-theater-tickets-664310549737. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/birdemic-shock-and-terror-birdemic-3-sea-eagle-the-smc-theater-tickets-664310549737. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/birdemic-shock-and-terror-birdemic-3-sea-eagle-the-smc-theater-tickets-664310549737. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/birdemic-shock-and-terror-birdemic-3-sea-eagle-the-smc-theater-tickets-664310549737
+Error in URl parser for https://www.eventbrite.com/e/10th-california-islands-symposium-tickets-559817588477. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/10th-california-islands-symposium-tickets-559817588477. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/10th-california-islands-symposium-tickets-559817588477. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/10th-california-islands-symposium-tickets-559817588477
+Error in URl parser for https://www.eventbrite.com/e/history-of-climate-change-30th-august-green-park-to-waterloo-tickets-691004612397. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/history-of-climate-change-30th-august-green-park-to-waterloo-tickets-691004612397. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/history-of-climate-change-30th-august-green-park-to-waterloo-tickets-691004612397. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/history-of-climate-change-30th-august-green-park-to-waterloo-tickets-691004612397
+ValueError occurred for url 362. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.ca/e/age-of-union-garden-opening-lancement-du-jardin-tickets-682394790187. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.ca/e/age-of-union-garden-opening-lancement-du-jardin-tickets-682394790187. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.ca/e/age-of-union-garden-opening-lancement-du-jardin-tickets-682394790187. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.ca/e/age-of-union-garden-opening-lancement-du-jardin-tickets-682394790187
+ValueError occurred for url 428. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-19th-tickets-528434139737. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-19th-tickets-528434139737. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-19th-tickets-528434139737. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-19th-tickets-528434139737
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-26th-tickets-528435202917. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-26th-tickets-528435202917. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-26th-tickets-528435202917. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-26th-tickets-528435202917
+PastDateError occurred for url 499. Error: Skipping event due to date 2019-08-26 18:00:00 occurring in the past
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-12th-tickets-528432244067. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-12th-tickets-528432244067. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-12th-tickets-528432244067. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-12th-tickets-528432244067
+Error in URl parser for https://www.eventbrite.com/e/midnight-jewel-yacht-party-nyc-saturday-august-12th-tickets-529501030837. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/midnight-jewel-yacht-party-nyc-saturday-august-12th-tickets-529501030837. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/midnight-jewel-yacht-party-nyc-saturday-august-12th-tickets-529501030837. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/midnight-jewel-yacht-party-nyc-saturday-august-12th-tickets-529501030837
+Error in URl parser for https://www.eventbrite.com/e/sam-smith-concert-seattle-tickets-695658121167. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sam-smith-concert-seattle-tickets-695658121167. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sam-smith-concert-seattle-tickets-695658121167. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/sam-smith-concert-seattle-tickets-695658121167
+Error in URl parser for https://www.eventbrite.com/e/maluma-concert-tickets-sep-3-at-700pm-tickets-645238595007. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/maluma-concert-tickets-sep-3-at-700pm-tickets-645238595007. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/maluma-concert-tickets-sep-3-at-700pm-tickets-645238595007. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/maluma-concert-tickets-sep-3-at-700pm-tickets-645238595007
+Error in URl parser for https://www.eventbrite.com/e/minority-vets-seattle-storm-season-home-game-tickets-tickets-634918286687. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/minority-vets-seattle-storm-season-home-game-tickets-tickets-634918286687. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/minority-vets-seattle-storm-season-home-game-tickets-tickets-634918286687. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/minority-vets-seattle-storm-season-home-game-tickets-tickets-634918286687
+ValueError occurred for url 552. Error: Failed to parse date: Unavailable
+ValueError occurred for url 552. Error: Event details extraction failed. Retrying...
+AddressParseError occurred for url 552. Error: Failed to parse address: Seattle, WA
+ValueError occurred for url 552. Error: Event details extraction failed. Retrying...
+PastDateError occurred for url 552. Error: Skipping event due to date 2023-08-10 00:00:00 occurring in the past
+Error in URl parser for https://www.eventbrite.ca/e/victoria-chapter-climb-for-climate-supporting-protect-our-winters-canada-tickets-689691715487. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.ca/e/victoria-chapter-climb-for-climate-supporting-protect-our-winters-canada-tickets-689691715487. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.ca/e/victoria-chapter-climb-for-climate-supporting-protect-our-winters-canada-tickets-689691715487. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.ca/e/victoria-chapter-climb-for-climate-supporting-protect-our-winters-canada-tickets-689691715487
+ValueError occurred for url 562. Error: Failed to parse date:  Month Day, Year, Hour:Minute AM/PM
+ValueError occurred for url 562. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 562. Error: Failed to parse date:  Month Day, Year, Hour:Minute AM/PM
+Error in URl parser for https://www.eventbrite.ca/e/victoria-international-wine-festival-2023-tickets-571064698887. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.ca/e/victoria-international-wine-festival-2023-tickets-571064698887. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.ca/e/victoria-international-wine-festival-2023-tickets-571064698887. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.ca/e/victoria-international-wine-festival-2023-tickets-571064698887
+Error in URl parser for https://www.eventbrite.com/e/grid-adaptive-microgrids-the-future-of-energy-decarbonization-resiliency-tickets-494173956607. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/grid-adaptive-microgrids-the-future-of-energy-decarbonization-resiliency-tickets-494173956607. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/grid-adaptive-microgrids-the-future-of-energy-decarbonization-resiliency-tickets-494173956607. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/grid-adaptive-microgrids-the-future-of-energy-decarbonization-resiliency-tickets-494173956607
+PastDateError occurred for url 588. Error: Skipping event due to date 2023-02-21 14:00:00 occurring in the past
+Error in URl parser for https://www.eventbrite.com/e/stanford-flame-ai-workshop-2023-tickets-593756701277. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/stanford-flame-ai-workshop-2023-tickets-593756701277. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/stanford-flame-ai-workshop-2023-tickets-593756701277. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/stanford-flame-ai-workshop-2023-tickets-593756701277
+Error in URl parser for https://www.eventbrite.com/e/launch-silicon-valley-startupinvestor-mixer-registration-674902189617. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/launch-silicon-valley-startupinvestor-mixer-registration-674902189617. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/launch-silicon-valley-startupinvestor-mixer-registration-674902189617. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/launch-silicon-valley-startupinvestor-mixer-registration-674902189617
+ValueError occurred for url 608. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/east-bay-permaculture-guild-august-meet-up-tickets-692498300057. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/east-bay-permaculture-guild-august-meet-up-tickets-692498300057. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/east-bay-permaculture-guild-august-meet-up-tickets-692498300057. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/east-bay-permaculture-guild-august-meet-up-tickets-692498300057
+Error in URl parser for https://www.eventbrite.com/e/live-piano-music-at-beacon-grand-ft-new-spell-tickets-690458860037. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/live-piano-music-at-beacon-grand-ft-new-spell-tickets-690458860037. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/live-piano-music-at-beacon-grand-ft-new-spell-tickets-690458860037. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/live-piano-music-at-beacon-grand-ft-new-spell-tickets-690458860037
+Error in URl parser for https://www.eventbrite.com/e/patagonia-documentary-the-scale-of-hope-qa-with-molly-kawahata-tickets-679918443367. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/patagonia-documentary-the-scale-of-hope-qa-with-molly-kawahata-tickets-679918443367. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/patagonia-documentary-the-scale-of-hope-qa-with-molly-kawahata-tickets-679918443367. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/patagonia-documentary-the-scale-of-hope-qa-with-molly-kawahata-tickets-679918443367
+Error in URl parser for https://www.eventbrite.sg/e/9th-annual-singapore-opengov-leadership-forum-2024-tickets-663372975427. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.sg/e/9th-annual-singapore-opengov-leadership-forum-2024-tickets-663372975427. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.sg/e/9th-annual-singapore-opengov-leadership-forum-2024-tickets-663372975427. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.sg/e/9th-annual-singapore-opengov-leadership-forum-2024-tickets-663372975427
+Error in URl parser for https://www.eventbrite.sg/e/cleanenviro-summit-singapore-2024-tickets-638530551067. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.sg/e/cleanenviro-summit-singapore-2024-tickets-638530551067. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.sg/e/cleanenviro-summit-singapore-2024-tickets-638530551067. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.sg/e/cleanenviro-summit-singapore-2024-tickets-638530551067
+Error in URl parser for https://www.eventbrite.co.uk/e/rescuing-orphan-analogue-environmental-data-at-the-environment-agency-tickets-691105614497. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.co.uk/e/rescuing-orphan-analogue-environmental-data-at-the-environment-agency-tickets-691105614497. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.co.uk/e/rescuing-orphan-analogue-environmental-data-at-the-environment-agency-tickets-691105614497. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.co.uk/e/rescuing-orphan-analogue-environmental-data-at-the-environment-agency-tickets-691105614497
+Error in URl parser for https://www.eventbrite.com/e/masterclass-skills-for-inclusive-communication-tickets-681685368287. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/masterclass-skills-for-inclusive-communication-tickets-681685368287. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/masterclass-skills-for-inclusive-communication-tickets-681685368287. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/masterclass-skills-for-inclusive-communication-tickets-681685368287
+ValueError occurred for url 704. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com.au/e/webinar-from-social-licence-to-social-performance-tickets-684508712987. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com.au/e/webinar-from-social-licence-to-social-performance-tickets-684508712987. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com.au/e/webinar-from-social-licence-to-social-performance-tickets-684508712987. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com.au/e/webinar-from-social-licence-to-social-performance-tickets-684508712987
+Error in URl parser for https://www.eventbrite.com/e/agrophotovoltaics-event-tickets-694594178887. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/agrophotovoltaics-event-tickets-694594178887. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/agrophotovoltaics-event-tickets-694594178887. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/agrophotovoltaics-event-tickets-694594178887
+Error in URl parser for https://www.eventbrite.com/e/monthly-firstfridayfair-business-data-technology-virtual-event-amsterdam-ams-tickets-484679137347. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/monthly-firstfridayfair-business-data-technology-virtual-event-amsterdam-ams-tickets-484679137347. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/monthly-firstfridayfair-business-data-technology-virtual-event-amsterdam-ams-tickets-484679137347. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/monthly-firstfridayfair-business-data-technology-virtual-event-amsterdam-ams-tickets-484679137347
+Error in URl parser for https://www.eventbrite.com/e/build-a-data-analytics-portfolio-that-will-impress-potential-employers-tickets-685246349277. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/build-a-data-analytics-portfolio-that-will-impress-potential-employers-tickets-685246349277. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/build-a-data-analytics-portfolio-that-will-impress-potential-employers-tickets-685246349277. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/build-a-data-analytics-portfolio-that-will-impress-potential-employers-tickets-685246349277
+Error in URl parser for https://www.eventbrite.nl/e/creative-market-amsterdam-tickets-494428879087. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.nl/e/creative-market-amsterdam-tickets-494428879087. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.nl/e/creative-market-amsterdam-tickets-494428879087. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.nl/e/creative-market-amsterdam-tickets-494428879087
+Error in URl parser for https://www.eventbrite.com/e/nyc-collaborative-lesson-planning-and-literacy-in-living-environment-tickets-695342697727. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/nyc-collaborative-lesson-planning-and-literacy-in-living-environment-tickets-695342697727. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/nyc-collaborative-lesson-planning-and-literacy-in-living-environment-tickets-695342697727. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/nyc-collaborative-lesson-planning-and-literacy-in-living-environment-tickets-695342697727
+Error in URl parser for https://www.eventbrite.com/e/rotterdam-flamenco-singing-all-levels-tickets-693269697327. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/rotterdam-flamenco-singing-all-levels-tickets-693269697327. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/rotterdam-flamenco-singing-all-levels-tickets-693269697327. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/rotterdam-flamenco-singing-all-levels-tickets-693269697327
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-boston-ma-tickets-354392807427. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-boston-ma-tickets-354392807427. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-boston-ma-tickets-354392807427. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/pmp-certification-training-in-boston-ma-tickets-354392807427
+ValueError occurred for url 818. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 818. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 818. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-boston-ma-tickets-401137602367. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-boston-ma-tickets-401137602367. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-boston-ma-tickets-401137602367. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/pmp-certification-training-in-boston-ma-tickets-401137602367
+ValueError occurred for url 819. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 819. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 819. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 819. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 819. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/afro-fusion-thursdays-afrobeats-hiphop-dancehall-soca-free-entry-tickets-496732489247. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/afro-fusion-thursdays-afrobeats-hiphop-dancehall-soca-free-entry-tickets-496732489247. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/afro-fusion-thursdays-afrobeats-hiphop-dancehall-soca-free-entry-tickets-496732489247. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/afro-fusion-thursdays-afrobeats-hiphop-dancehall-soca-free-entry-tickets-496732489247
+ValueError occurred for url 875. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 875. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/hospice-news-elevate-tickets-479446426167. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/hospice-news-elevate-tickets-479446426167. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/hospice-news-elevate-tickets-479446426167. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/hospice-news-elevate-tickets-479446426167
+ValueError occurred for url 912. Error: Failed to parse date: Month Day, Year, Hour:Minute AM/PM
+ValueError occurred for url 912. Error: Failed to parse date:  
+ValueError occurred for url 912. Error: Failed to parse date: Month Day, Year, Hour:Minute AM/PM
+ValueError occurred for url 912. Error: Failed to parse date:  
+ValueError occurred for url 912. Error: Failed to parse date: Month Day, Year, Hour:Minute AM/PM
+ValueError occurred for url 912. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 912. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 912. Error: Failed to parse date:  Location: University Club of Chicago, 76 East Monroe Street Chicago, IL 60603
+ValueError occurred for url 912. Error: Failed to parse date:  
+ValueError occurred for url 912. Error: Failed to parse date:  
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-chicago-il-tickets-401134011627. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-chicago-il-tickets-401134011627. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-chicago-il-tickets-401134011627. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/pmp-certification-training-in-chicago-il-tickets-401134011627
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-chicago-il-tickets-354382125477. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-chicago-il-tickets-354382125477. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-chicago-il-tickets-354382125477. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/pmp-certification-training-in-chicago-il-tickets-354382125477
+Error in URl parser for https://www.eventbrite.com/e/maryland-international-agriculture-and-environment-conference-tickets-665782602687. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/maryland-international-agriculture-and-environment-conference-tickets-665782602687. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/maryland-international-agriculture-and-environment-conference-tickets-665782602687. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/maryland-international-agriculture-and-environment-conference-tickets-665782602687
+Error in URl parser for https://www.eventbrite.com/e/whine-toast-sunday-funday-brunch-black-diamond-restaurant-lounge-tickets-647053804347. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/whine-toast-sunday-funday-brunch-black-diamond-restaurant-lounge-tickets-647053804347. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/whine-toast-sunday-funday-brunch-black-diamond-restaurant-lounge-tickets-647053804347. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/whine-toast-sunday-funday-brunch-black-diamond-restaurant-lounge-tickets-647053804347
+ValueError occurred for url 964. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 964. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 964. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 964. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 964. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 964. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 964. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 964. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 964. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/buzzing-bee-fun-presents-sliming-out-with-mad-science-tickets-656758350907. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/buzzing-bee-fun-presents-sliming-out-with-mad-science-tickets-656758350907. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/buzzing-bee-fun-presents-sliming-out-with-mad-science-tickets-656758350907. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/buzzing-bee-fun-presents-sliming-out-with-mad-science-tickets-656758350907
+Error in URl parser for https://www.eventbrite.com/e/freaknik-2023-tickets-690298079137. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/freaknik-2023-tickets-690298079137. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/freaknik-2023-tickets-690298079137. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/freaknik-2023-tickets-690298079137
+Error in URl parser for https://www.eventbrite.com/e/reptile-super-show-los-angeles-pomona-1-day-pass-august-12-13-2023-tickets-639692506507. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/reptile-super-show-los-angeles-pomona-1-day-pass-august-12-13-2023-tickets-639692506507. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/reptile-super-show-los-angeles-pomona-1-day-pass-august-12-13-2023-tickets-639692506507. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/reptile-super-show-los-angeles-pomona-1-day-pass-august-12-13-2023-tickets-639692506507
+ValueError occurred for url 1041. Error: Failed to parse date: August 12, 2023 10AM-6PM
+ValueError occurred for url 1041. Error: Failed to parse date: August 12, 2023 10AM-6PM
+ValueError occurred for url 1041. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1041. Error: Failed to parse date: August 12, 2023 10AM-6PM
+Error in URl parser for https://www.eventbrite.com/e/black-to-the-future-tec-leimert-2023-conference-tickets-600891160637. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/black-to-the-future-tec-leimert-2023-conference-tickets-600891160637. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/black-to-the-future-tec-leimert-2023-conference-tickets-600891160637. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/black-to-the-future-tec-leimert-2023-conference-tickets-600891160637
+Error in URl parser for https://www.eventbrite.com/e/learn-to-swing-west-coast-swing-tickets-594800563497. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/learn-to-swing-west-coast-swing-tickets-594800563497. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/learn-to-swing-west-coast-swing-tickets-594800563497. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/learn-to-swing-west-coast-swing-tickets-594800563497
+PastDateError occurred for url 1061. Error: Skipping event due to date 2017-09-18 19:30:00 occurring in the past
+Error in URl parser for https://www.eventbrite.com/e/group-shower-free-comedy-show-w-pizza-drinks-thursday-august-10th-tickets-693264933077. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/group-shower-free-comedy-show-w-pizza-drinks-thursday-august-10th-tickets-693264933077. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/group-shower-free-comedy-show-w-pizza-drinks-thursday-august-10th-tickets-693264933077. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/group-shower-free-comedy-show-w-pizza-drinks-thursday-august-10th-tickets-693264933077
+ValueError occurred for url 1071. Error: Event details extraction failed. Retrying...
+PastDateError occurred for url 1071. Error: Skipping event due to date 2023-08-10 21:00:00 occurring in the past
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-greater-los-angeles-area-ca-tickets-401135646517. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-greater-los-angeles-area-ca-tickets-401135646517. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-greater-los-angeles-area-ca-tickets-401135646517. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/pmp-certification-training-in-greater-los-angeles-area-ca-tickets-401135646517
+ValueError occurred for url 1085. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1085. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-greater-los-angeles-area-ca-tickets-352455924157. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-greater-los-angeles-area-ca-tickets-352455924157. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-greater-los-angeles-area-ca-tickets-352455924157. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/pmp-certification-training-in-greater-los-angeles-area-ca-tickets-352455924157
+Error in URl parser for https://www.eventbrite.com/e/augmented-reality-art-magic-tickets-622591336447. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/augmented-reality-art-magic-tickets-622591336447. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/augmented-reality-art-magic-tickets-622591336447. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/augmented-reality-art-magic-tickets-622591336447
+ValueError occurred for url 1091. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1091. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1091. Error: Failed to parse date: Month Day, Year, Hour:Minute AM/PM
+ValueError occurred for url 1091. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1091. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1091. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/speed-dating-odyssey-games-pasadena-tickets-692672992567. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/speed-dating-odyssey-games-pasadena-tickets-692672992567. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/speed-dating-odyssey-games-pasadena-tickets-692672992567. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/speed-dating-odyssey-games-pasadena-tickets-692672992567
+Error in URl parser for https://www.eventbrite.com/e/rose-bowl-stadium-tour-august-25th-1030am-1230pm-tickets-525871524887. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/rose-bowl-stadium-tour-august-25th-1030am-1230pm-tickets-525871524887. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/rose-bowl-stadium-tour-august-25th-1030am-1230pm-tickets-525871524887. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/rose-bowl-stadium-tour-august-25th-1030am-1230pm-tickets-525871524887
+Error in URl parser for https://www.eventbrite.com/e/what-rules-leadership-conference-registration-656213410977. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/what-rules-leadership-conference-registration-656213410977. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/what-rules-leadership-conference-registration-656213410977. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/what-rules-leadership-conference-registration-656213410977
+Error in URl parser for https://www.eventbrite.ca/e/billets-quintus7-les-nouveaux-recits-de-la-transition-605072386797. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.ca/e/billets-quintus7-les-nouveaux-recits-de-la-transition-605072386797. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.ca/e/billets-quintus7-les-nouveaux-recits-de-la-transition-605072386797. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.ca/e/billets-quintus7-les-nouveaux-recits-de-la-transition-605072386797
+PastDateError occurred for url 1199. Error: Skipping event due to date 2023-06-16 15:00:00 occurring in the past
+Error in URl parser for https://www.eventbrite.com/e/taller-limpieza-verde-tickets-696347723787. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/taller-limpieza-verde-tickets-696347723787. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/taller-limpieza-verde-tickets-696347723787. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/taller-limpieza-verde-tickets-696347723787
+Error in URl parser for https://www.eventbrite.co.uk/e/global-mba-consultation-cv-clinic-montreal-tickets-679276302707. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.co.uk/e/global-mba-consultation-cv-clinic-montreal-tickets-679276302707. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.co.uk/e/global-mba-consultation-cv-clinic-montreal-tickets-679276302707. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.co.uk/e/global-mba-consultation-cv-clinic-montreal-tickets-679276302707
+PastDateError occurred for url 1219. Error: Skipping event due to date 2023-04-16 09:00:00 occurring in the past
+Error in URl parser for https://www.eventbrite.ca/e/consent-training-frosh-sports-resort-tickets-675633717637. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.ca/e/consent-training-frosh-sports-resort-tickets-675633717637. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.ca/e/consent-training-frosh-sports-resort-tickets-675633717637. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.ca/e/consent-training-frosh-sports-resort-tickets-675633717637
+ValueError occurred for url 1268. Error: Failed to parse date:  
+Error in URl parser for https://www.eventbrite.com/e/art-at-the-edge-tickets-696085519527. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/art-at-the-edge-tickets-696085519527. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/art-at-the-edge-tickets-696085519527. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/art-at-the-edge-tickets-696085519527
+PastDateError occurred for url 1282. Error: Skipping event due to date 2023-07-26 08:25:07.511226 occurring in the past
+Error in URl parser for https://www.eventbrite.com/e/sand-in-the-city-by-glam-hospitality-kitn-tickets-689683470827. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/sand-in-the-city-by-glam-hospitality-kitn-tickets-689683470827. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/sand-in-the-city-by-glam-hospitality-kitn-tickets-689683470827. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/sand-in-the-city-by-glam-hospitality-kitn-tickets-689683470827
+ValueError occurred for url 1315. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1315. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1315. Error: Failed to parse date: Start datetime: Tomorrow at 10:00 AM
+Error in URl parser for https://www.eventbrite.com/e/sand-in-the-city-by-kitn-glam-hospitality-tickets-689674403707. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/sand-in-the-city-by-kitn-glam-hospitality-tickets-689674403707. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/sand-in-the-city-by-kitn-glam-hospitality-tickets-689674403707. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/sand-in-the-city-by-kitn-glam-hospitality-tickets-689674403707
+ValueError occurred for url 1325. Error: Event details extraction failed. Retrying...
+AddressParseError occurred for url 1325. Error: Failed to parse address: WeWork, Brooklyn, NY
+ValueError occurred for url 1325. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/explore-in-the-woods-tickets-674910323947. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/explore-in-the-woods-tickets-674910323947. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/explore-in-the-woods-tickets-674910323947. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/explore-in-the-woods-tickets-674910323947
+Error in URl parser for https://www.eventbrite.com/e/opening-artists-reception-nature-by-design-tickets-682350417467. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/opening-artists-reception-nature-by-design-tickets-682350417467. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/opening-artists-reception-nature-by-design-tickets-682350417467. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/opening-artists-reception-nature-by-design-tickets-682350417467
+ValueError occurred for url 1373. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1373. Error: Failed to parse date:  
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-seattle-wa-tickets-354397200567. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-seattle-wa-tickets-354397200567. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-seattle-wa-tickets-354397200567. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/pmp-certification-training-in-seattle-wa-tickets-354397200567
+ValueError occurred for url 1391. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-seattle-wa-tickets-401142486977. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-seattle-wa-tickets-401142486977. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/pmp-certification-training-in-seattle-wa-tickets-401142486977. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/pmp-certification-training-in-seattle-wa-tickets-401142486977
+ValueError occurred for url 1392. Error: Failed to parse date:  August 22, 2023, 9:00 AM - 5:00 PM
+ValueError occurred for url 1392. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/city-of-kirkland-owmbe-summer-certification-series-august-10-tickets-633637606137. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/city-of-kirkland-owmbe-summer-certification-series-august-10-tickets-633637606137. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/city-of-kirkland-owmbe-summer-certification-series-august-10-tickets-633637606137. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/city-of-kirkland-owmbe-summer-certification-series-august-10-tickets-633637606137
+PastDateError occurred for url 1439. Error: Skipping event due to date 2023-08-10 00:00:00 occurring in the past
+Error in URl parser for https://www.eventbrite.com/e/mental-health-comedy-hour-tickets-619554352747. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/mental-health-comedy-hour-tickets-619554352747. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/mental-health-comedy-hour-tickets-619554352747. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/mental-health-comedy-hour-tickets-619554352747
+Error in URl parser for https://www.eventbrite.sg/e/public-speaking-masterclass-tickets-657575515067. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.sg/e/public-speaking-masterclass-tickets-657575515067. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.sg/e/public-speaking-masterclass-tickets-657575515067. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.sg/e/public-speaking-masterclass-tickets-657575515067
+Error in URl parser for https://www.eventbrite.co.uk/e/global-mba-consultation-cv-clinic-singapore-tickets-679271327827. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.co.uk/e/global-mba-consultation-cv-clinic-singapore-tickets-679271327827. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.co.uk/e/global-mba-consultation-cv-clinic-singapore-tickets-679271327827. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.co.uk/e/global-mba-consultation-cv-clinic-singapore-tickets-679271327827
+ValueError occurred for url 1591. Error: Failed to parse date:  3 Upper Pickering Street Singapore, 058289 Singapore
+ValueError occurred for url 1591. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1591. Error: Failed to parse date:  Month Day, Year, Hour:Minute AM/PM
+ValueError occurred for url 1591. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1591. Error: Failed to parse date:  Month Day, Year, Hour:Minute AM/PM
+ValueError occurred for url 1591. Error: Failed to parse date:  Month Day, Year, Hour:Minute AM/PM
+ValueError occurred for url 1591. Error: Failed to parse date:  
+ValueError occurred for url 1591. Error: Failed to parse date:  Month Day, Year, Hour:Minute AM/PM
+PastDateError occurred for url 1591. Error: Skipping event due to date 2023-05-12 09:00:00 occurring in the past
+Error in URl parser for https://www.eventbrite.at/e/kick-start-business-sustainability-with-celemi-sustainabilitytm-demo-tickets-679594173467. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.at/e/kick-start-business-sustainability-with-celemi-sustainabilitytm-demo-tickets-679594173467. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.at/e/kick-start-business-sustainability-with-celemi-sustainabilitytm-demo-tickets-679594173467. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.at/e/kick-start-business-sustainability-with-celemi-sustainabilitytm-demo-tickets-679594173467
+Error in URl parser for https://www.eventbrite.com/e/agrivoltaics-events-tickets-675883705357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/agrivoltaics-events-tickets-675883705357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/agrivoltaics-events-tickets-675883705357. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/agrivoltaics-events-tickets-675883705357
+Error in URl parser for https://www.eventbrite.nl/e/tickets-walk-in-urban-sustainable-wine-tastings-484267205247. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.nl/e/tickets-walk-in-urban-sustainable-wine-tastings-484267205247. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.nl/e/tickets-walk-in-urban-sustainable-wine-tastings-484267205247. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.nl/e/tickets-walk-in-urban-sustainable-wine-tastings-484267205247
+Error in URl parser for https://www.eventbrite.nl/e/textile-arts-summer-day-camp-registration-578554581327. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.nl/e/textile-arts-summer-day-camp-registration-578554581327. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.nl/e/textile-arts-summer-day-camp-registration-578554581327. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.nl/e/textile-arts-summer-day-camp-registration-578554581327
+AddressParseError occurred for url 1621. Error: Failed to parse address: Unknown
+ValueError occurred for url 1621. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1621. Error: Failed to parse date: Month Day, Year, Hour:Minute AM/PM
+ValueError occurred for url 1621. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1621. Error: Failed to parse date: Month Day, Year, Hour:Minute AM/PM
+ValueError occurred for url 1621. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1621. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1621. Error: Failed to parse date: Not provided
+ValueError occurred for url 1621. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 1621. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.nl/e/tickets-agape-temple-global-ministry-global-divine-healing-conference-sept-1-3-666517962167. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.nl/e/tickets-agape-temple-global-ministry-global-divine-healing-conference-sept-1-3-666517962167. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.nl/e/tickets-agape-temple-global-ministry-global-divine-healing-conference-sept-1-3-666517962167. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.nl/e/tickets-agape-temple-global-ministry-global-divine-healing-conference-sept-1-3-666517962167
+Error in URl parser for https://www.eventbrite.com/e/tickets-donut-festival-2024-514335440147. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/tickets-donut-festival-2024-514335440147. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/tickets-donut-festival-2024-514335440147. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/tickets-donut-festival-2024-514335440147
+Error in URl parser for https://www.eventbrite.nl/e/international-womens-retreat-2023-he-restores-my-soul-tickets-644385042007. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.nl/e/international-womens-retreat-2023-he-restores-my-soul-tickets-644385042007. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.nl/e/international-womens-retreat-2023-he-restores-my-soul-tickets-644385042007. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.nl/e/international-womens-retreat-2023-he-restores-my-soul-tickets-644385042007
+Error in URl parser for https://www.eventbrite.com/e/masterclass-championing-dei-in-the-workplace-tickets-681742659647. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/masterclass-championing-dei-in-the-workplace-tickets-681742659647. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/masterclass-championing-dei-in-the-workplace-tickets-681742659647. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/masterclass-championing-dei-in-the-workplace-tickets-681742659647
+ValueError occurred for url 1647. Error: Failed to parse date: September 7, 2023, 9:00 AM - 10:00 AM
+ValueError occurred for url 1647. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/foodhack-boston-save-the-date-tickets-685347130717. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/foodhack-boston-save-the-date-tickets-685347130717. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/foodhack-boston-save-the-date-tickets-685347130717. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/foodhack-boston-save-the-date-tickets-685347130717
+Error in URl parser for https://www.eventbrite.com/e/green-hanson-cornhole-fundraiser-tickets-695568081857. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/green-hanson-cornhole-fundraiser-tickets-695568081857. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/green-hanson-cornhole-fundraiser-tickets-695568081857. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/green-hanson-cornhole-fundraiser-tickets-695568081857
+Error in URl parser for https://www.eventbrite.com/e/free-session-unlocking-ancient-wisdom-with-meditation-and-breath-work-tickets-686289479307. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/free-session-unlocking-ancient-wisdom-with-meditation-and-breath-work-tickets-686289479307. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/free-session-unlocking-ancient-wisdom-with-meditation-and-breath-work-tickets-686289479307. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/free-session-unlocking-ancient-wisdom-with-meditation-and-breath-work-tickets-686289479307
+Error in URl parser for https://www.eventbrite.com/e/relax-reflect-rejuvenate-an-autumn-retreat-for-women-tickets-598195517897. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/relax-reflect-rejuvenate-an-autumn-retreat-for-women-tickets-598195517897. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/relax-reflect-rejuvenate-an-autumn-retreat-for-women-tickets-598195517897. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/relax-reflect-rejuvenate-an-autumn-retreat-for-women-tickets-598195517897
+Error in URl parser for https://www.eventbrite.com/e/escape-to-the-cape-retreat-tickets-651077419087. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/escape-to-the-cape-retreat-tickets-651077419087. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/escape-to-the-cape-retreat-tickets-651077419087. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/escape-to-the-cape-retreat-tickets-651077419087
+AddressParseError occurred for url 1722. Error: Failed to parse address:  Falmouth, MA
+Error in URl parser for https://www.eventbrite.com/e/get-a-grip-on-your-business-with-eos-v20-tickets-687263743357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/get-a-grip-on-your-business-with-eos-v20-tickets-687263743357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/get-a-grip-on-your-business-with-eos-v20-tickets-687263743357. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/get-a-grip-on-your-business-with-eos-v20-tickets-687263743357
+Error in URl parser for https://www.eventbrite.com/e/qualities-of-the-empowered-soul-never-be-lonely-again-tickets-688837961887. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/qualities-of-the-empowered-soul-never-be-lonely-again-tickets-688837961887. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/qualities-of-the-empowered-soul-never-be-lonely-again-tickets-688837961887. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/qualities-of-the-empowered-soul-never-be-lonely-again-tickets-688837961887
+Error in URl parser for https://www.eventbrite.com/e/iso-14001-andor-45001-lead-auditor-course-chicago-area-tickets-440762330997. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/iso-14001-andor-45001-lead-auditor-course-chicago-area-tickets-440762330997. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/iso-14001-andor-45001-lead-auditor-course-chicago-area-tickets-440762330997. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/iso-14001-andor-45001-lead-auditor-course-chicago-area-tickets-440762330997
+PastDateError occurred for url 1776. Error: Skipping event due to date 2023-08-08 01:58:09.314845 occurring in the past
+Error in URl parser for https://www.eventbrite.com/e/registering-interest-in-i-go-30th-anniversary-celebration-tickets-516980200697. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/registering-interest-in-i-go-30th-anniversary-celebration-tickets-516980200697. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/registering-interest-in-i-go-30th-anniversary-celebration-tickets-516980200697. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/registering-interest-in-i-go-30th-anniversary-celebration-tickets-516980200697
+PastDateError occurred for url 1857. Error: Skipping event due to date 2023-08-09 08:03:34.954821 occurring in the past
+Error in URl parser for https://www.eventbrite.com/e/unlock-our-time-tested-secrets-master-affiliate-marketing-success-today-tickets-664605030537. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/unlock-our-time-tested-secrets-master-affiliate-marketing-success-today-tickets-664605030537. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/unlock-our-time-tested-secrets-master-affiliate-marketing-success-today-tickets-664605030537. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/unlock-our-time-tested-secrets-master-affiliate-marketing-success-today-tickets-664605030537
+ValueError occurred for url 1949. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.co.uk/e/glyndon-breaking-ground-sustainability-program-tickets-472442898427. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.co.uk/e/glyndon-breaking-ground-sustainability-program-tickets-472442898427. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.co.uk/e/glyndon-breaking-ground-sustainability-program-tickets-472442898427. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.co.uk/e/glyndon-breaking-ground-sustainability-program-tickets-472442898427
+AddressParseError occurred for url 1953. Error: Failed to parse address: London
+AddressParseError occurred for url 1953. Error: Failed to parse address: London
+AddressParseError occurred for url 1953. Error: Failed to parse address: London
+AddressParseError occurred for url 1953. Error: Failed to parse address: London
+Error in URl parser for https://www.eventbrite.co.uk/e/dont-waste-your-summer-tiny-gardens-fun-day-tickets-692299084197. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.co.uk/e/dont-waste-your-summer-tiny-gardens-fun-day-tickets-692299084197. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.co.uk/e/dont-waste-your-summer-tiny-gardens-fun-day-tickets-692299084197. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.co.uk/e/dont-waste-your-summer-tiny-gardens-fun-day-tickets-692299084197
+AddressParseError occurred for url 2013. Error: Failed to parse address: Unknown
+ValueError occurred for url 2013. Error: Event details extraction failed. Retrying...
+AddressParseError occurred for url 2013. Error: Failed to parse address: Unknown
+ValueError occurred for url 2013. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2013. Error: Event details extraction failed. Retrying...
+AddressParseError occurred for url 2013. Error: Failed to parse address: Unknown
+ValueError occurred for url 2013. Error: Event details extraction failed. Retrying...
+AddressParseError occurred for url 2013. Error: Failed to parse address: Unknown
+ValueError occurred for url 2013. Error: Event details extraction failed. Retrying...
+AddressParseError occurred for url 2013. Error: Failed to parse address: Ilford BID 
+Error in URl parser for https://www.eventbrite.com/e/professional-development-pre-conference-workshops-at-aclca-conference-2023-tickets-695384934057. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/professional-development-pre-conference-workshops-at-aclca-conference-2023-tickets-695384934057. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/professional-development-pre-conference-workshops-at-aclca-conference-2023-tickets-695384934057. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/professional-development-pre-conference-workshops-at-aclca-conference-2023-tickets-695384934057
+Error in URl parser for https://www.eventbrite.com/e/journey-fuel-summit-breaking-through-tickets-639941832247. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/journey-fuel-summit-breaking-through-tickets-639941832247. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/journey-fuel-summit-breaking-through-tickets-639941832247. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/journey-fuel-summit-breaking-through-tickets-639941832247
+ValueError occurred for url 2034. Error: Event details extraction failed. Retrying...
+PastDateError occurred for url 2034. Error: Skipping event due to date 2023-08-10 09:00:00 occurring in the past
+Error in URl parser for https://www.eventbrite.com/e/radiate-self-love-with-amber-tickets-663795800107. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/radiate-self-love-with-amber-tickets-663795800107. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/radiate-self-love-with-amber-tickets-663795800107. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/radiate-self-love-with-amber-tickets-663795800107
+Error in URl parser for https://www.eventbrite.com/e/future-forum-from-crisis-to-resilience-tickets-690195371937. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/future-forum-from-crisis-to-resilience-tickets-690195371937. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/future-forum-from-crisis-to-resilience-tickets-690195371937. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/future-forum-from-crisis-to-resilience-tickets-690195371937
+ValueError occurred for url 2047. Error: Failed to parse date: Month Day, Year, Hour:Minute AM/PM
+ValueError occurred for url 2047. Error: Failed to parse date:  12:30 PM - 5:00 PM | Main Stage Presentations
+PastDateError occurred for url 2047. Error: Skipping event due to date 2023-05-05 12:30:00 occurring in the past
+Error in URl parser for https://www.eventbrite.co.uk/e/international-forum-on-african-caribbean-leadership-ifal-new-york-2023-tickets-691526764167. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.co.uk/e/international-forum-on-african-caribbean-leadership-ifal-new-york-2023-tickets-691526764167. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.co.uk/e/international-forum-on-african-caribbean-leadership-ifal-new-york-2023-tickets-691526764167. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.co.uk/e/international-forum-on-african-caribbean-leadership-ifal-new-york-2023-tickets-691526764167
+Error in URl parser for https://www.eventbrite.com/e/40th-annual-queens-county-fair-tickets-428076597627. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/40th-annual-queens-county-fair-tickets-428076597627. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/40th-annual-queens-county-fair-tickets-428076597627. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/40th-annual-queens-county-fair-tickets-428076597627
+Error in URl parser for https://www.eventbrite.com/e/wip-seattle-x-ebay-the-art-of-successful-product-launches-tickets-676060654617. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/wip-seattle-x-ebay-the-art-of-successful-product-launches-tickets-676060654617. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/wip-seattle-x-ebay-the-art-of-successful-product-launches-tickets-676060654617. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/wip-seattle-x-ebay-the-art-of-successful-product-launches-tickets-676060654617
+Error in URl parser for https://www.eventbrite.com/e/dont-beg-to-bury-secure-your-legacy-a-final-expense-planning-workshop-tickets-691976328827. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/dont-beg-to-bury-secure-your-legacy-a-final-expense-planning-workshop-tickets-691976328827. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/dont-beg-to-bury-secure-your-legacy-a-final-expense-planning-workshop-tickets-691976328827. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/dont-beg-to-bury-secure-your-legacy-a-final-expense-planning-workshop-tickets-691976328827
+Error in URl parser for https://www.eventbrite.com/e/american-sustainable-business-network-2023-conference-tickets-632829027657. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/american-sustainable-business-network-2023-conference-tickets-632829027657. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/american-sustainable-business-network-2023-conference-tickets-632829027657. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/american-sustainable-business-network-2023-conference-tickets-632829027657
+ValueError occurred for url 2151. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.de/e/gtf-connect-singapore-2023-tickets-653889921357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.de/e/gtf-connect-singapore-2023-tickets-653889921357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.de/e/gtf-connect-singapore-2023-tickets-653889921357. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.de/e/gtf-connect-singapore-2023-tickets-653889921357
+Error in URl parser for https://www.eventbrite.com/e/filecoin-singapore-fvm-commnunity-meetup-tickets-680680282047. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/filecoin-singapore-fvm-commnunity-meetup-tickets-680680282047. Error: 'NoneType' object has no attribute 'get_text'
+Error in URl parser for https://www.eventbrite.com/e/filecoin-singapore-fvm-commnunity-meetup-tickets-680680282047. Error: 'NoneType' object has no attribute 'get_text'
+URL parser failure for https://www.eventbrite.com/e/filecoin-singapore-fvm-commnunity-meetup-tickets-680680282047
+ValueError occurred for url 2259. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/lighting-the-path-aapi-leaders-powering-up-the-energy-justice-movement-tickets-646305074877. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/lighting-the-path-aapi-leaders-powering-up-the-energy-justice-movement-tickets-646305074877. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/lighting-the-path-aapi-leaders-powering-up-the-energy-justice-movement-tickets-646305074877. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/lighting-the-path-aapi-leaders-powering-up-the-energy-justice-movement-tickets-646305074877
+ValueError occurred for url 2264. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2264. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2264. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2264. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2264. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2264. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2264. Error: Failed to parse date: The start datetime of the event
+ValueError occurred for url 2264. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2264. Error: Failed to parse date:  The start datetime of the event
+ValueError occurred for url 2264. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2265. Error: Event details extraction failed. Retrying...
+AddressParseError occurred for url 2265. Error: Failed to parse address:  Virtual summit
+ValueError occurred for url 2265. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2265. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2265. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2265. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2265. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2266. Error: Failed to parse date: August 17, 5:00-7:00pm
+ValueError occurred for url 2266. Error: Failed to parse date:  August 17, 5:00-7:00pm
+ValueError occurred for url 2266. Error: Failed to parse date: August 17, 5:00-7:00pm
+ValueError occurred for url 2266. Error: Failed to parse date: August 17, 5:00-7:00pm
+ValueError occurred for url 2266. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2266. Error: Failed to parse date: August 17, 5:00-7:00pm
+ValueError occurred for url 2266. Error: Failed to parse date: August 17, 5:00-7:00pm
+ValueError occurred for url 2266. Error: Failed to parse date: August 17, 5:00-7:00pm
+ValueError occurred for url 2266. Error: Failed to parse date: August 17, 5:00-7:00pm
+ValueError occurred for url 2266. Error: Failed to parse date: August 17, 5:00-7:00pm
+AddressParseError occurred for url 2268. Error: Failed to parse address: Syracuse, NY
+AddressParseError occurred for url 2268. Error: Failed to parse address: Syracuse, NY
+ValueError occurred for url 2268. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2268. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2268. Error: Event details extraction failed. Retrying...
+OpenAI api error occurred for url 2268. Error: Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+AddressParseError occurred for url 2268. Error: Failed to parse address: Syracuse, NY
+ValueError occurred for url 2268. Error: Failed to parse date:  August 23 - September 4, 2023
+AddressParseError occurred for url 2268. Error: Failed to parse address: Syracuse, NY
+ValueError occurred for url 2268. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2269. Error: Failed to parse date: The start datetime of the event 
+ValueError occurred for url 2269. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2269. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2269. Error: Failed to parse date: Start Datetime
+ValueError occurred for url 2269. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2269. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2269. Error: Failed to parse date:  The start datetime of the event 
+ValueError occurred for url 2269. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2269. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2269. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2270. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2270. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2270. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2270. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2270. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2270. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2270. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2271. Error: Event details extraction failed. Retrying...
+AddressParseError occurred for url 2271. Error: Failed to parse address: N/A
+AddressParseError occurred for url 2271. Error: Failed to parse address: Not available
+AddressParseError occurred for url 2271. Error: Failed to parse address: Unknown
+AddressParseError occurred for url 2271. Error: Failed to parse address: Unknown
+ValueError occurred for url 2271. Error: Failed to parse date: September 17, 2023, Hour:Minute AM/PM
+AddressParseError occurred for url 2271. Error: Failed to parse address: Unknown
+ValueError occurred for url 2271. Error: Event details extraction failed. Retrying...
+AddressParseError occurred for url 2271. Error: Failed to parse address: Not available
+ValueError occurred for url 2271. Error: Event details extraction failed. Retrying...
+PastDateError occurred for url 2272. Error: Skipping event due to date 2021-09-17 13:00:00 occurring in the past
+ValueError occurred for url 2273. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2274. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2274. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2274. Error: Failed to parse date: Sep 30, 2023, 10:00 - 11:30 am
+ValueError occurred for url 2274. Error: Failed to parse date: Sat, Sep 30, 2023, 10:00 - 11:30 am
+ValueError occurred for url 2274. Error: Failed to parse date: Sep 30, 2023, 10:00 - 11:30 am
+ValueError occurred for url 2274. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2274. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2274. Error: Failed to parse date: Sep 30, 2023, 10:00 - 11:30 am
+ValueError occurred for url 2274. Error: Event details extraction failed. Retrying...
+ValueError occurred for url 2274. Error: Event details extraction failed. Retrying...
+PastDateError occurred for url 2275. Error: Skipping event due to date 2023-07-15 12:00:00 occurring in the past
+ValueError occurred for url 2276. Error: Event details extraction failed. Retrying...
+PastDateError occurred for url 2276. Error: Skipping event due to date 2023-05-18 18:00:00 occurring in the past
+PastDateError occurred for url 2277. Error: Skipping event due to date 2023-03-24 13:00:00 occurring in the past
+PastDateError occurred for url 2278. Error: Skipping event due to date 2022-11-17 18:30:00 occurring in the past
+PastDateError occurred for url 2279. Error: Skipping event due to date 2022-11-09 09:00:00 occurring in the past
+PastDateError occurred for url 2280. Error: Skipping event due to date 2022-10-22 11:00:00 occurring in the past
+ValueError occurred for url 2281. Error: Event details extraction failed. Retrying...
+PastDateError occurred for url 2281. Error: Skipping event due to date 2022-10-11 18:30:00 occurring in the past
+PastDateError occurred for url 2282. Error: Skipping event due to date 2022-10-01 10:30:00 occurring in the past
+PastDateError occurred for url 2283. Error: Skipping event due to date 2022-09-30 16:00:00 occurring in the past
+PastDateError occurred for url 2284. Error: Skipping event due to date 2022-09-23 16:00:00 occurring in the past
+PastDateError occurred for url 2285. Error: Skipping event due to date 2022-09-16 16:00:00 occurring in the past
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Relevance check failure.

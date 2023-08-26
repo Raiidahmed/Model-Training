@@ -1,0 +1,10 @@
+Error in URl parser for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357
+ValueError occurred for url 1. Error: Event details extraction failed. Retrying...
+General Error occurred for url 1. Error: can't compare offset-naive and offset-aware datetimes
+General Error occurred for url 1. Error: can't compare offset-naive and offset-aware datetimes
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.
+Error in relevance check iteration. Error: Received a different number of results than expected. Please check the model's responses.

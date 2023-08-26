@@ -1,0 +1,4 @@
+Error in URl parser for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357

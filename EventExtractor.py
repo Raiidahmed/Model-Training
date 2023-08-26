@@ -12,13 +12,16 @@ from datetime import datetime
 import logging
 import csv
 
+
 class PastDateError(Exception):
     """Raised when the date is in the past."""
     pass
 
+
 class AddressParseError(Exception):
     """Raised when the address parsing fails."""
     pass
+
 
 class EventExtractor:
     def __init__(self, api_key_env, csv_files, column_mapping, city, output_dir=None, num_rows=None):
@@ -222,22 +225,42 @@ class EventExtractor:
                     # Prepare the prompt string with all batch prompts included
                     batch_prompts_string = "\n---\n".join(batch_prompts)
                     prompt_string = f"""
-                    For each of the following texts, give a single TRUE/FALSE value if it relates to even a single one of the following terms: {term_string}.
+                    For each of the following texts, give an INTEGER rating on a scale of 0-5 measuring how relevant the text is to the following terms: {term_string}.
                     THERE ARE {len(batch_prompts)} INPUTS, SO THERE SHOULD BE {len(batch_prompts)} OUTPUTS!
                     The texts are:
 
                     ---\n{batch_prompts_string}\n---"""
 
+                    user_message = {
+                        "role": "user",
+                        "content": f"Check the event relevance. FOLLOW THESE INSTRUCTIONS: {prompt_string}"
+                    }
+
+                    system = {
+                        "role": "system",
+                        "content": "You are a relevance checker. Use a semicolon character ; to delimit different fields extracted. Do not provide field names, just the extracted field.",
+                    }
+
+                    messages = [system, user_message]
+                    functions = [
+                                    {
+                                        "name": "Check_Relevance",
+                                        "description": "Check the relevance of an event",
+                                            "parameters": {
+                                                "climate_score": {
+                                                    "type": "integer",
+                                                    "description": "How related an event is to the key terms, 0-5"
+                                                }
+                                            },
+                                        "required": ["climate_score"]
+                                    }
+                                ]
+
                     response = openai.ChatCompletion.create(
                         model="gpt-4",
-                        messages=[
-                            {
-                                "role": "system",
-                                "content": "You are a relevance checker. Use a semicolon character ; to delimit different fields extracted. Do not provide field names, just the extracted field.",
-                            },
-                            {"role": "user", "content": prompt_string},
-                        ],
-                    )
+                        messages=messages,
+                        #functions=functions
+                        )
 
                     # Print out the model's response
                     print(f"Response for batch {i + 1}:\n{response.choices[0]['message']['content']}\n")
@@ -249,8 +272,10 @@ class EventExtractor:
                         raise ValueError(
                             "Received a different number of results than expected. Please check the model's responses.")
 
-                    relevance_results.extend([result.lower() == 'true' for result in batch_results])
-
+                    #relevance_results.extend([result.lower() == 'true' for result in batch_results])
+                    relevance_results.extend(batch_results)
+                    print(batch_results)
+                    print(relevance_results)
                     print(f"Iteration {i + 1} of {num_requests} completed successfully.")
                     break
 
@@ -266,7 +291,8 @@ class EventExtractor:
 
         # Append the results to the dataframe
         print("Relevance check process completed.")
-        return(relevance_results)
+        print(relevance_results)
+        return (relevance_results)
 
     @staticmethod
     def process_eventbrite(url):
@@ -407,7 +433,8 @@ class EventExtractor:
 
                         # Checking if the lengths of the extraction and the column mapping match
                         if len(event_details) - 1 != len(self.column_mapping):  # subtract 1 because we appended the URL
-                            raise ValueError("Event details extraction failed. Retrying...")  # Raise an error to trigger the retry
+                            raise ValueError(
+                                "Event details extraction failed. Retrying...")  # Raise an error to trigger the retry
 
                         event_details = self.parse_dates(event_details, datetime_fields)
                         event_details = self.parse_addresses(event_details, address_fields)
@@ -446,7 +473,8 @@ class EventExtractor:
                 if not successful:
                     print("Failed to get the correct response from OpenAI. Marking error and moving to next URL.")
                     if event_details:  # Check if the list is not empty
-                        event_details[0] = 'ERROR ' + event_details[0] # Replace the first value in the list with 'ERROR'
+                        event_details[0] = 'ERROR ' + event_details[
+                            0]  # Replace the first value in the list with 'ERROR'
                         self.save_offending_row_to_csv(event_details)
                     else:
                         event_details.append('ERROR ')  # If the list is empty, append 'ERROR'
@@ -462,8 +490,10 @@ class EventExtractor:
                  'Earth', 'Soil', 'Urban Modernization', 'Urban Restoration',
                  'Forestry', 'Ecosystems', 'Climate Investments', 'Climate Startups',
                  'Climate Legislation', 'Climate Activism', 'Recycled', 'Vintage', 'Compost'
-                 'Vegan', 'Green', 'Sustainable Cities', 'Urbanism', 'Sustainable Nonprofits'
-                 'Sustainable Buildings', 'Sustainable Design', 'Sustainable Architecture',
+                                                                                   'Vegan', 'Green',
+                 'Sustainable Cities', 'Urbanism', 'Sustainable Nonprofits'
+                                                   'Sustainable Buildings', 'Sustainable Design',
+                 'Sustainable Architecture',
                  'Impact Investing', 'Local Produce', 'Farmers Market', 'Vegan Market', 'Vegetables',
                  'Plant Based']
 
@@ -471,7 +501,9 @@ class EventExtractor:
 
         event_info = [row + [value] for row, value in zip(event_info, self.check_relevance(event_info, terms))]
         self.write_events_to_csv(event_info, additional_data, self.output_file, self.column_mapping)
-        pd.read_csv(self.output_file).pipe(lambda df: df.assign(Relevance=df.apply(lambda row: True if not pd.isna(row['Source CSV']) and 'eventbrite' not in row['Source CSV'].lower() else row['Relevance'], axis=1))).to_csv(self.output_file, index=False)
+        pd.read_csv(self.output_file).pipe(lambda df: df.assign(Relevance=df.apply(
+            lambda row: True if not pd.isna(row['Source CSV']) and 'eventbrite' not in row['Source CSV'].lower() else
+            row['Relevance'], axis=1))).to_csv(self.output_file, index=False)
 
         print(f"The output CSV {self.output_file} has been saved. It contains {len(event_info)} rows.")
 
@@ -502,5 +534,3 @@ class EventExtractor:
         new_file_path = "/".join(self.output_file.split("/")[:-1]) + "/Cleaned_" + self.output_file.split("/")[-1]
         df.to_csv(new_file_path, index=False)
         print(f"CSV cleaning process completed! File saved at: {new_file_path}")
-
-

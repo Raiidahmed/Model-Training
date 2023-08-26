@@ -1,0 +1,22 @@
+Error in URl parser for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/sustainable-blockchain-summit-earth-registration-636837918357
+ValueError occurred for url 1. Error: Event details extraction failed. Retrying...
+Error in URl parser for https://www.eventbrite.com/e/stories-of-hope-amid-ecological-crisis-tickets-669425047337. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/stories-of-hope-amid-ecological-crisis-tickets-669425047337. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/stories-of-hope-amid-ecological-crisis-tickets-669425047337. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/stories-of-hope-amid-ecological-crisis-tickets-669425047337
+Error in URl parser for https://www.eventbrite.sg/e/youth-in-climate-shaping-policies-and-driving-action-tickets-677220503757. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.sg/e/regeneration-2040-film-screening-with-climate-designers-tickets-665985168567. Error: 'NoneType' object is not subscriptable
+Error in relevance check iteration. Error: Invalid schema for function 'Check_Relevance': schema must be a JSON Schema of 'type: "object"', got 'type: "None"'.
+Error in relevance check iteration. Error: Invalid schema for function 'Check_Relevance': schema must be a JSON Schema of 'type: "object"', got 'type: "None"'.
+Error in relevance check iteration. Error: Invalid schema for function 'Check_Relevance': schema must be a JSON Schema of 'type: "object"', got 'type: "None"'.
+Error in relevance check iteration. Error: Invalid schema for function 'Check_Relevance': schema must be a JSON Schema of 'type: "object"', got 'type: "None"'.
+Error in relevance check iteration. Error: Invalid schema for function 'Check_Relevance': schema must be a JSON Schema of 'type: "object"', got 'type: "None"'.
+Error in relevance check iteration. Error: Invalid schema for function 'Check_Relevance': schema must be a JSON Schema of 'type: "object"', got 'type: "None"'.
+Error in relevance check iteration. Error: Invalid schema for function 'Check_Relevance': schema must be a JSON Schema of 'type: "object"', got 'type: "None"'.
+Error in relevance check iteration. Error: Invalid schema for function 'Check_Relevance': schema must be a JSON Schema of 'type: "object"', got 'type: "None"'.
+Error in relevance check iteration. Error: Invalid schema for function 'Check_Relevance': schema must be a JSON Schema of 'type: "object"', got 'type: "None"'.
+Error in relevance check iteration. Error: Invalid schema for function 'Check_Relevance': schema must be a JSON Schema of 'type: "object"', got 'type: "None"'.
+Relevance check failure.

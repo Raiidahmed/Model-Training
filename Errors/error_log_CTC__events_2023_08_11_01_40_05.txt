@@ -1,0 +1,30 @@
+Error in URl parser for https://www.eventbrite.co.uk/e/eliminating-the-effects-of-racism-on-our-work-to-sustain-all-life-tickets-676173000647. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.co.uk/e/eliminating-the-effects-of-racism-on-our-work-to-sustain-all-life-tickets-676173000647. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.co.uk/e/new-yorkers-and-the-climate-movement-tickets-675516266337. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/1-nyc-yacht-cruise-boat-party-nyc-experience-party-tour-tickets-559630849937. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/all-white-yacht-party-cruise-new-york-city-2023-white-boat-party-series-tickets-585950402427. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/nyc-sunset-hip-hop-vs-caribbean-leo-szn-jewel-yacht-party-august-13-tickets-573196745897. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/hip-hop-vs-carib-sunset-yacht-party-socialcity-tickets-616788219167. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-19th-tickets-528434139737. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-19th-tickets-528434139737. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-19th-tickets-528434139737. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-19th-tickets-528434139737
+Error in URl parser for https://www.eventbrite.com/e/government-procurement-conference-tickets-673072757737. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-26th-tickets-528435202917. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-26th-tickets-528435202917. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-26th-tickets-528435202917. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-26th-tickets-528435202917
+Error in URl parser for https://www.eventbrite.com/e/nyc-sunset-yacht-party-playing-best-hip-hop-rb-caribbean-afrobeats-tickets-612294127217. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-12th-tickets-528432244067. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-12th-tickets-528432244067. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-12th-tickets-528432244067. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/sunset-yacht-party-nyc-cabana-boat-party-sat-august-12th-tickets-528432244067
+Error in URl parser for https://www.eventbrite.com/e/midnight-jewel-yacht-party-nyc-saturday-august-12th-tickets-529501030837. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/midnight-jewel-yacht-party-nyc-saturday-august-12th-tickets-529501030837. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/midnight-jewel-yacht-party-nyc-saturday-august-12th-tickets-529501030837. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/midnight-jewel-yacht-party-nyc-saturday-august-12th-tickets-529501030837
+Error in URl parser for https://www.eventbrite.com/e/sat-aug-19th-latino-vibes-nyc-sunset-booze-cruise-tickets-680496923617. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sat-aug-19th-latino-vibes-nyc-sunset-booze-cruise-tickets-680496923617. Error: 'NoneType' object is not subscriptable
+Error in URl parser for https://www.eventbrite.com/e/sat-aug-19th-latino-vibes-nyc-sunset-booze-cruise-tickets-680496923617. Error: 'NoneType' object is not subscriptable
+URL parser failure for https://www.eventbrite.com/e/sat-aug-19th-latino-vibes-nyc-sunset-booze-cruise-tickets-680496923617
+ValueError occurred for url 92. Error: Event details extraction failed. Retrying...
